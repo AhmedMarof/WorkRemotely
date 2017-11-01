@@ -5,3 +5,7 @@ function sayHi(){
 function buildApps(){
 	console.log("Build Great Apps");
 }
+
+function newFeature(){
+	console.log("Added New Feature");
+}
